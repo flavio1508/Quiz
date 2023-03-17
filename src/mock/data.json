@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "sumary":"whaat is the capital of India?",
+        "body":"what is the capital od India?",
+        "answers":[
+            {
+                "id":1,
+                "body": "new Delhi",
+                "isCorrectAnswer":true
+            },
+            {
+                "id":2,
+                "body": "Mumbai",
+                "isCorrectAnswer":false
+            },
+            {
+                "id":3,
+                "body": "Kolkata",
+                "isCorrectAnswer":false
+            },
+            {
+                "id":4,
+                "body": "Sao Paulo",
+                "isCorrectAnswer":false
+            },
+            {
+                "id":5,
+                "body": "Campo Grande",
+                "isCorrectAnswer":false
+            }
+        ]
+    }
+]

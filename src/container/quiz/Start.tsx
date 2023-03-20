@@ -20,6 +20,9 @@ export default function ComponentName() {
                             <li>Instruction 3</li>
                         </ul>
                     </div>
+                    <div className='col-md-12 mt-3'>
+                  <Link to={CONSTANT.url.question} className="btn btn-primary float-right">Start Quiz</Link>
+                    </div>
                 </div>
             </div>
         </div>
